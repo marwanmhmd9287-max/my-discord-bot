@@ -59,4 +59,4 @@ async def setup_ticket(ctx):
     )
     await ctx.send(embed=embed, view=TicketButton())
 
-# bot.run('YOUR_BOT_TOKEN')
+ bot.runMTUyNzQ3ODg4NjM3MDM4MTk2Nw.Gf01EQ.zSPwJdN3Rlx0LiS5Gr0eDj5jXrfCaa-ImlkjS0
